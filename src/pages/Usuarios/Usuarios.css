@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-forms {
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 400px;
+    height: 350px;
+    padding: 20px;
+    margin: 100px auto;
+    background-color: white;
+}
+
+/* .btn-forms {
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 100px;
+    text-align: center;
+} */
+
+.form-label {
+    width: 100%
+}
