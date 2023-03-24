@@ -14,6 +14,14 @@ export function SuperForm() {
       setHeroi(heroi);
     }
 
+    // let mensagem = `
+    //         Nome: ${heroi.nome}
+    //         Poder: ${heroi.poder}
+    //         Fraqueza: ${heroi.fraqueza}
+    //         História: ${heroi.historia}
+    //     `;
+    //     alert(mensagem);
+
   return (
     <div>
         <h1>FAÇA O SEU <strong>SUPER</strong> CADASTRO</h1>
